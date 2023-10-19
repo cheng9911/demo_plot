@@ -1,0 +1,5 @@
+/home/sun/Documents/demo_plot/build/CMakeFiles/edit_cache.dir
+/home/sun/Documents/demo_plot/build/CMakeFiles/package_source.dir
+/home/sun/Documents/demo_plot/build/CMakeFiles/rebuild_cache.dir
+/home/sun/Documents/demo_plot/build/CMakeFiles/package.dir
+/home/sun/Documents/demo_plot/build/CMakeFiles/main.dir

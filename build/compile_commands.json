@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sun/Documents/demo_plot/build",
+  "command": "/usr/bin/g++   -isystem /usr/include/python3.8 -isystem /home/sun/.local/lib/python3.8/site-packages/numpy/core/include  -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/sun/Documents/demo_plot/main.cpp",
+  "file": "/home/sun/Documents/demo_plot/main.cpp"
+}
+]
